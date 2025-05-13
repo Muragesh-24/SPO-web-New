@@ -1,6 +1,10 @@
 import React from 'react'
 import './Components.css'
 import Navbar from './Navbar'
+import Software from './Software'
+import Quant from './Quant'
+import Core from './Core'
+import Conslt from './Conslt'
 function Insight() {
   return (
     <div>
@@ -9,7 +13,10 @@ function Insight() {
         <h1>SPO Insights</h1>
       </div>
       <div className="mai">
-        
+        <Software/>
+        <Quant/>
+        <Core/>
+        <Conslt/>
       </div>
        <div className="foot">
   <div className="grid">

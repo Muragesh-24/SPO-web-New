@@ -1,0 +1,215 @@
+Section 1: Software Companies
+(Students placed in software development, IT, tech, or related roles)
+
+Abhay Gupta - OLA
+
+Abhishek Pardhi - Google
+
+Aishwarya Srivastava - Navi
+
+Aryan Garg - Uniorbit Technologies
+
+Dinesh Kumar - Accenture
+
+Amit Kumar - Microsoft
+
+Ravi Mishra - Amazon
+
+Nidhi Yadav - SAP
+
+Pooja Patel - Infosys
+
+Rahul Mehta - Cognizant
+
+Ananya Verma - TCS
+
+Siddharth Rao - Tech Mahindra
+
+Neha Rajput - Wipro
+
+Karthik Nair - Nvidia
+
+Priya Sharma - Oracle
+
+Aditya Singh - ZS Associates
+
+Vikram Soni - IBM
+
+Akash Jain - HCL Technologies
+
+Ritika Singh - L&T Infotech
+Section 2: Quant/Finance Companies
+(Students placed in finance, analytics, quant roles, or financial institutions)
+
+Advait Vashi - Finmechanics
+
+Alok Kumar Thakur - Navi
+
+Aryash Pateria - Sprinklr
+
+Ashwin Agarwal - Goldman Sachs
+
+Nikita Sharma - JP Morgan
+
+Krishna Chaitanya - ICICI Bank
+
+Prithvi Narayan - Barclays
+
+Ankita Patil - Morgan Stanley
+
+Rohan Mehra - Bank of America
+
+Rajesh Kumar - Citibank
+
+Vishal Gupta - Fidelity Investments
+
+Jatin Sharma - Deutsche Bank
+
+Rekha Kumari - HSBC
+
+Nitin Kapoor - Nomura
+
+Madhur Mittal - Ernst & Young
+
+Kunal Mehta - Wells Fargo
+
+Shivendra Kumar - BlackRock
+
+Aparna Rao - Macquarie
+
+Tanvi Joshi - Standard Chartered
+
+Puneet Singh - Bank of America Merrill Lynch
+Sumit Gupta - Mindtree
+
+
+
+Section 3: Core Engineering Companies
+(Students placed in core engineering roles such as civil, mechanical, electrical, chemical, etc.)
+
+Anushka Pal - HPCL
+
+Debjani Das - PharmaACE
+
+Deepanshi Maheshwari - Battery Smart
+
+Sandeep Yadav - Tata Motors
+
+Rohit Prakash - L&T
+
+Aarti Kapoor - Siemens
+
+Siddhi Agarwal - Bosch
+
+Shubham Sharma - Tata Steel
+
+Neha Rathi - Reliance Industries
+
+Vinay Kumar - GE Power
+
+Harsh Vardhan - Jaguar Land Rover
+
+Rachit Jain - Mahindra & Mahindra
+
+Anjali Desai - Hyundai Motors
+
+Sahil Joshi - Indian Oil Corporation (IOCL)
+
+Vandana Verma - BHEL
+
+Gaurav Soni - HPCL
+
+Sushmita Reddy - Schneider Electric
+
+Aniket Agrawal - ABB India
+
+Vishal Arora - L&T Construction
+
+Nikhil Verma - Tata Power
+
+Section 4: Consulting and Management Roles
+(Students placed in consulting, strategy, marketing, or management roles)
+
+Gauri G Menon - Publicis Sapient
+
+Debdeep Paul Chaudhuri - United Airlines
+
+Aryan Garg - Uniorbit Technologies
+
+Neelam Gupta - Deloitte
+
+Aman Mittal - McKinsey & Co.
+
+Priya Patel - Boston Consulting Group (BCG)
+
+Akash Sharma - Bain & Co.
+
+Ruchi Singh - Accenture
+
+Ishaan Khurana - KPMG
+
+Arjun Agarwal - PwC
+
+Saanvi Sharma - EY (Ernst & Young)
+
+Aakash Singhania - ZS Associates
+
+Shalini Kumar - Cognizant Consulting
+
+Varun Chopra - Oliver Wyman
+
+Kiran Joshi - Roland Berger
+
+Dinesh Agarwal - Capgemini
+
+Tanushree Roy - AT Kearney
+
+Sanjay Reddy - Aon Hewitt
+
+Ritika Agarwal - Oliver Wyman
+
+Meher Zaveri - Accenture Strategy
+
+Section 5: Other Industries/Startups/Non-Technical Roles
+(Students placed in roles that don’t fall under the major categories like software, quant, finance, or core engineering but are still important)
+
+Aritra - Accenture Solutions Pvt Ltd
+
+Chaithanya V - Microsoft India
+
+Gudelli Shivakumar - Hitachi
+
+Gaurav Shukla - Sprinklr
+
+Disha Patel - Deloitte India
+
+Karan Prakash - ZS Associates
+
+Meenal Mishra - Cleartrip
+
+Shreya Kapoor - UrbanClap
+
+Sandeep Agarwal - Swiggy
+
+Amit Kumar - Byju’s
+
+Tanmay Gupta - OYO Rooms
+
+Riya Desai - Snapdeal
+
+Siddharth Chaturvedi - OLA Cabs
+
+Madhuri Singh - Tata Consultancy Services (TCS)
+
+Kritika Bhagat - Unilever
+
+Rashmi Sharma - Nielsen
+
+Shivani Choudhary - Accenture Consulting
+
+Sanjay Kumar - Nielsen
+
+Akash Yadav - RedSeer Consulting
+
+Rupesh Ranjan - Baidu
+
