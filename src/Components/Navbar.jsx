@@ -3,7 +3,7 @@ import './Components.css'
 function Navbar() {
   return (
     <div className='nav'>
-    <img src="/lo.png" className='im'></img> 
+    <img src="/Lo.png" className='im'></img> 
     <ul className='uitop'>
        <li className="about"><a href='#'>ABOUT IITK</a></li> 
        <li className="about"><a href='#'>FOR COMPANIES</a></li> 
