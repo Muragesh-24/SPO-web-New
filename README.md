@@ -19,7 +19,7 @@ This is a **React-based clone of the Student Section** from the official [Studen
 
 ## 🚀 Live Demo
 
-👉 [Click here to view live project](https://your-live-link.com)
+👉 [Click here to view live project](https://spoweb.vercel.app/)
 
 ##  How to Run Locally
 
